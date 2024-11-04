@@ -9,7 +9,7 @@ int main(void)
 		scanf("%d",&d);
 		c++;
 		if(d==a&&c==1){
-			printf("Bingo!!!");
+			printf("Bingo!!!HaHa!");
 			flag=1;
 			break;
 		}else if(d==a&&c<=3){
